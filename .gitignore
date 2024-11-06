@@ -1,0 +1,5 @@
+.env
+server/.env
+node_modules
+.dockerignore
+E:/Projects/Chilleville/ChilleVille/server/.env
