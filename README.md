@@ -1,4 +1,4 @@
-# Project CoolCity
+# Project ChilleVille
 
 A comprehensive AI-based solution to mitigate rising urban temperatures caused by climate change, industrial emissions, vehicular heat, and other natural factors.
 
